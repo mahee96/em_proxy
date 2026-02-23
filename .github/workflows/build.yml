@@ -42,8 +42,8 @@ jobs:
         release: "Build"
         tag: "build"
         files: |
-          em_proxy.xcframework.zip
           em_proxy.h
+          em_proxy.swift
           target/debug/libem_proxy-ios.a
           target/debug/libem_proxy-sim.a
         body: |
