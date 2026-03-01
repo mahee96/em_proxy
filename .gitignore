@@ -9,3 +9,6 @@ em_proxy.h
 **/.DS_Store
 .last-prebuilt-fetch-em_proxy
 .skip-prebuilt-fetch-em_proxy
+.build
+.swiftpm
+target
